@@ -23,4 +23,4 @@ print("The Result of a+b is:",add(a, b))
 
 ## Result
 
-Thus, the program is executed successfully.
+Thus, the program has been executed successfully.
